@@ -1,7 +1,7 @@
 body {
   background-color: #f5f7fa;
   padding: 40px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .bio-title {
@@ -20,7 +20,7 @@ body {
   color: #1e213a;
 }
 
-.contacts>ul {
+.contacts > ul {
   list-style: none;
   padding-left: 10px;
 }
@@ -42,24 +42,6 @@ body {
 }
 
 .contacts-link:hover {
-  color: #ff6b08;
-}
-
-.projects-title {
-  font-size: 22px;
-  line-height: 1.091;
-  color: #1e213a;
-  margin-bottom: 14px;
-}
-
-.projects-link {
-  text-decoration: none;
-  font-size: 14px;
-  line-height: 1.714;
-  color: #1e213a;
-}
-
-.projects-link:hover {
   color: #ff6b08;
 }
 
@@ -138,7 +120,6 @@ body {
 }
 
 .bio,
-.projects,
 .jobs,
 .education {
   margin-bottom: 60px;
