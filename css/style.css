@@ -11,10 +11,6 @@ body {
   border-bottom: 4px solid #ff6b08;
 }
 
-.bio-occupation {
-  margin-bottom: 27px;
-}
-
 .bio-title,
 .bio-occupation {
   color: #1e213a;
@@ -25,7 +21,6 @@ body {
   padding-left: 10px;
 }
 
-.bio-occupation,
 .bio-about {
   font-size: 14px;
   line-height: 1.714;
